@@ -1,0 +1,23 @@
+/* CSS for native tags */
+nav {
+    background-color: #5133a4;
+    padding: 0px 0px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    font-size: 28px;
+    line-height: 42px;
+}
+
+/* This keeps the nav bar stuck to the top of the screen */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 90;
+}
+
+

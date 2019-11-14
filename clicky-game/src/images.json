@@ -1,0 +1,22 @@
+[
+    
+    {"id": 1, "name": "Capture 2", "isClicked": false, "url": "./images/Capture2.PNG"},
+    {"id": 2, "name": "Capture 3", "isClicked": false, "url": "./images/Capture3.PNG"},
+    {"id": 3, "name": "Capture 4", "isClicked": false, "url": "./images/Capture4.PNG"},
+    {"id": 4, "name": "Capture 5", "isClicked": false, "url": "./images/Capture5.PNG"},
+    {"id": 5, "name": "Capture 6", "isClicked": false, "url": "./images/Capture6.PNG"},
+    {"id": 6, "name": "Capture 7", "isClicked": false, "url": "./images/Capture7.PNG"},
+    {"id": 7, "name": "Capture 8", "isClicked": false, "url": "./images/Capture8.PNG"},
+    {"id": 8, "name": "Capture 9", "isClicked": false, "url": "./images/Capture9.PNG"},
+    {"id": 9, "name": "Capture 10", "isClicked": false, "url": "./images/Capture10.PNG"},
+    {"id": 10, "name": "Capture 11", "isClicked": false, "url": "./images/Capture11.PNG"},
+    {"id": 11, "name": "Capture 12", "isClicked": false, "url": "./images/Capture12.PNG"},
+    {"id": 12, "name": "Capture 13", "isClicked": false, "url": "./images/Capture13.PNG"},
+    {"id": 13, "name": "Capture 14", "isClicked": false, "url": "./images/Capture14.PNG"},
+    {"id": 14, "name": "Capture 15", "isClicked": false, "url": "./images/Capture15.PNG"},
+    {"id": 15, "name": "Capture 16", "isClicked": false, "url": "./images/Capture16.PNG"},
+    {"id": 16, "name": "Capture 17", "isClicked": false, "url": "./images/Capture17.PNG"},
+    {"id": 17, "name": "Capture 18", "isClicked": false, "url": "./images/Capture18.PNG"}
+    
+
+]

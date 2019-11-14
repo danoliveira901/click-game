@@ -20,3 +20,10 @@
 .App-link {
   color: #09d3ac;
 }
+
+/* I added this to limit the size of the viewport for the images to be clicked */
+.wrapper {
+  width: 70%;
+  margin: 0px auto;
+  text-align: center;
+}

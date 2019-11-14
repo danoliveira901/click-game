@@ -1,0 +1,8 @@
+/* Style for jumbotron */
+.jumbotron {
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 20px;
+    margin-top: 260px;
+}
